@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SongDefs>
+<SongDef>
+		<clipPath>rimworld_take1</clipPath>
+        <volume>0.9</volume>
+
+  </SongDef>
+<SongDef>
+		<clipPath>rimworld_take2</clipPath>
+        <volume>0.9</volume>
+  </SongDef> 
+<SongDef>
+      <clipPath>rimworld_take3</clipPath>
+      <tense>true</tense>
+		<volume>0.9</volume>
+   </SongDef>
+</SongDefs>
