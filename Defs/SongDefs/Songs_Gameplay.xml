@@ -1,14 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <SongDefs>
 <SongDef>
-		<clipPath>rimworld_take1</clipPath>
+		<clipPath>rimworld_take1_01</clipPath>
+        <volume>0.9</volume>
+
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take1_02</clipPath>
+        <volume>0.9</volume>
+
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take1_03</clipPath>
+        <volume>0.9</volume>
+
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take1_04</clipPath>
+        <volume>0.9</volume>
+
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take1_05</clipPath>
+        <volume>0.9</volume>
+
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take1_06</clipPath>
+        <volume>0.9</volume>
+
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take1_07</clipPath>
         <volume>0.9</volume>
 
   </SongDef>
 <SongDef>
-		<clipPath>rimworld_take2</clipPath>
+		<clipPath>rimworld_take2_01</clipPath>
         <volume>0.9</volume>
-  </SongDef> 
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take2_02</clipPath>
+        <volume>0.9</volume>
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take2_03</clipPath>
+        <volume>0.9</volume>
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take2_04</clipPath>
+        <volume>0.9</volume>
+  </SongDef>
+  <SongDef>
+		<clipPath>rimworld_take2_05</clipPath>
+        <volume>0.9</volume>
+  </SongDef>
 <SongDef>
       <clipPath>rimworld_take3</clipPath>
       <tense>true</tense>
